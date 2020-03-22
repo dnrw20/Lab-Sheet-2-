@@ -3,7 +3,7 @@ Lab Sheet Exercises
 #Exercise 1:
 Write a function(s) that prints out the reverse of a string (do
 not use a C standard library function to handle the reversal). Call this
-function from main() to test your program.\n
+function from main() to test your program
 #Exercise 2:
 Write a function(s) that converts an octal number, represented
 as a string (char array), into its decimal value (do not use a C standard
